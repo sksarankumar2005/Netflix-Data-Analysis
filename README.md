@@ -34,12 +34,12 @@ Drama and Comedy are the dominant genres across the platform.
 The United States, India, and the United Kingdom are the top content contributors.
 A large portion of the catalog targets TV-MA and TV-14 audiences, suggesting mature or general-interest programming.
 Netflix’s global diversification post-2016 shows expansion into multiple non-English-speaking markets.
+
 ⚙️ Tech Stack
 Language: Python
 
 
 Attributes Include:
-
 Title, Director, Cast, Country, Date Added, Release Year
 Rating, Duration, Type (Movie/TV Show), and Genre
 Time Span: 2008 – 2021
@@ -60,6 +60,8 @@ Insight Generation
 Patterns and observations
 Business-level recommendations
 Conclusion
+
+
 💡 Conclusion
 This analysis provides data-driven insights into Netflix’s evolving catalog.
 By understanding content trends, genre dynamics, and regional representation, Netflix can refine its global strategy, focus on emerging genres, and optimize investments in diverse content markets.
